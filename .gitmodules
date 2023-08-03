@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "asremlPlus"]
+	path = asremlPlus
+	url = https://github.com/briencj/asremlplus
+[submodule "dae"]
+	path = dae
+	url = https://github.com/briencj/dae
+[submodule "growthPheno"]
+	path = growthPheno
+	url = https://github.com/briencj/growthpheno
+[submodule "imageData"]
+	path = imageData
+	url = https://github.com/cran/imageData
